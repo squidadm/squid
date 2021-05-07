@@ -484,3 +484,4 @@ CacheManager::GetInstance()
     }
     return instance;
 }
+
