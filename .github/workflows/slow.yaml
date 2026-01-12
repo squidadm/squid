@@ -172,8 +172,7 @@ jobs:
               libtool \
               m4 \
               nettle \
-              pkgconf \
-              translate-toolkit
+              pkgconf
 
           run: |
             export MAKE=gmake
